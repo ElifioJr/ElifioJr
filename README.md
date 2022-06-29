@@ -1,6 +1,7 @@
 ## Bem-Vindos ao meu perfil :hugs:
 
 ## Stats
+</br>
 <div align="center">
   <a href="https://github.com/ElifioJr">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ElifioJr&show_icons=true&theme=cobalt&nclude_all_commits=true&count_private=true"/>
