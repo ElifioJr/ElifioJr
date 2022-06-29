@@ -3,8 +3,8 @@
 ## Stats
 <div align="center">
   <a href="https://github.com/ElifioJr">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=ElifioJr&show_icons=true&theme=cobalt&nclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifioJr&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ElifioJr&show_icons=true&theme=cobalt&nclude_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifioJr&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 </br>
 
