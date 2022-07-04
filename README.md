@@ -9,7 +9,7 @@
 </div>
 </br>
 
-## Techs
+## Skills
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Elifio-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Elifio-Net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
