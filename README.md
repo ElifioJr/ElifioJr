@@ -1,13 +1,17 @@
-## Bem-Vindos ao meu perfil :hugs:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elifio+Junior;I'm+23+years+old;I+from+Rancharia,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Stats
 </br>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ElifioJr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ElifioJr&show_icons=true&theme=cobalt&nclude_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifioJr&layout=compact&langs_count=7&theme=cobalt"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ElifioJr&show_icons=true&theme=gotham&nclude_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifioJr&layout=compact&langs_count=7&theme=gotham"/> 
 </div>
 </br>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ElifioJr&theme=gotham&hide_border=true&area=true)
 
 ## Skills
 <div align="center" style="display: inline_block"><br>
@@ -27,4 +31,7 @@
   <a href="https://www.linkedin.com/in/es-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 
