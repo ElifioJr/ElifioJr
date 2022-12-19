@@ -11,8 +11,6 @@
 </div>
 </br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ElifioJr&theme=gotham&hide_border=true&area=true)
-
 ## Skills
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Elifio-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
