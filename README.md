@@ -2,14 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elifio+Junior;I'm+27+years+old;I+from+Londrina,+PR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## Stats
-</br>
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/ElifioJr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifioJr&layout=compact&langs_count=7&theme=gotham"/> 
-</div>
-</br>
-
 ## Skills
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Elifio-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
